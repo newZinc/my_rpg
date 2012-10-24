@@ -1,4 +1,4 @@
 my_rpg
 ======
 
-training make rpg
+RPGの戦闘の仕組みを作りたい
